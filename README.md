@@ -1,1 +1,2 @@
 # abstract-generic-example
+These files were extracted from an Android app (a carpools for kids app) that I'm currently developing. These files show how using generics and abstract classes can result in short, beautiful codes. The generics are used to allow different objects to use the same class, and it provides type safety. The abstract classes are used to prevent repetitive codes and thus, saves code length.
